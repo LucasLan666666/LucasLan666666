@@ -14,15 +14,15 @@
 
 ### 🏆 Profile Trophy
 
-<p align="center">
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=LucasLan666666&theme=buddhism&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="LucasLan666666" />
-</p>
+</div>
 
 ### 📈 Github Statistics
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="17px" src="https://github-readme-stats.vercel.app/api?username=LucasLan666666&count_private=true&show_icons=true" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=LucasLan666666&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLan666666&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
