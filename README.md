@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+Lucas+Lan's+homepage!)](https://git.io/typing-svg)
-
 <h3 align="center">Hi 👋, I'm Lucas Lan！
 
 <p align="center">
