@@ -14,7 +14,7 @@
 
 ### 🏆 Profile Trophy
 
-<div align="center">
+<div style="text-align: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=LucasLan666666&theme=buddhism&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="LucasLan666666" />
 </div>
 
