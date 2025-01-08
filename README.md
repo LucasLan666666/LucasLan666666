@@ -28,6 +28,4 @@
     <span>&emsp;&emsp;</span>
 </div>
 
-### 🐍 Github Contribution Grid Snake
-
 ![](https://raw.githubusercontent.com/LucasLan666666/LucasLan666666/main/assets/github-contribution-grid-snake.svg)
