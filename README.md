@@ -12,11 +12,11 @@
     </a>
 </p>
 
-### 🏆 Profile Trophy
+<!-- ### 🏆 Profile Trophy
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=LucasLan666666&theme=buddhism&margin-w=15&margin-h=15" alt="LucasLan666666" />
-</div>
+</div> -->
 
 ### 📈 Github Statistics
 
@@ -27,3 +27,11 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLan666666&layout=compact&langs_count=8&theme=tokyonight" />
     <span>&emsp;&emsp;</span>
 </div>
+
+### 🐍 Github Contribution Grid Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLan666666/LucasLan666666/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLan666666/LucasLan666666/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasLan666666/LucasLan666666/output/github-contribution-grid-snake.svg">
+</picture>
