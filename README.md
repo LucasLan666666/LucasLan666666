@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋! I'm LucasLan, a student from UCAS.</h3>
 
-<p align="center">
+<!-- <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/LucasLan666666">
         <img src="https://img.shields.io/github/stars/LucasLan666666.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
@@ -10,7 +10,7 @@
     <a title="My Blog Site" target="_blank" href="https://lucaslan666666.github.io">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-LucasLan666666.github.io-orange" />
     </a>
-</p>
+</p> -->
 
 <!-- ### 🏆 Profile Trophy
 
